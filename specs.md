@@ -29,9 +29,9 @@
 
 ## Technology
 
-- Frontend: Angular/react
-- Backend: NodeJS Express, Mongoose, Cors, bcrypt for hashing, jwt
+- Frontend: React
+- Backend: NodeJS Express, Mongoose, Cors, bcrypt for hashing, jwt/
 - Database: MongoDB
-- Others: Push notification
+- Others: Push notification or payment
 
 ## Deloyment: AWS
